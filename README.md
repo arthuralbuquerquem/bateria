@@ -7,7 +7,7 @@ Este foi um projeto desenvolvido durante o curso B7web.<br><br>
 
 ## Resumo:
 
-- Sistema que detecta qual tecla foi acionada, assim, emitindo o efeito sonoro destinado a cada tecla, formando uma "bateria".
+- Sistema que detecta qual tecla foi acionada, assim, emitindo o efeito sonoro destinado a cada tecla, formando uma "bateria". Também incluso um compositor, que ao digitar a sequência desejada, ele a reproduz.
 
 ### Tecnologias Usadas:
 
