@@ -15,7 +15,6 @@ Este foi um projeto desenvolvido durante o curso B7web.<br><br>
 - CSS
 - JavaScript
 
-## Demonstração:
 
 ## Demonstração:
 
